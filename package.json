@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "myquote",
+=======
+  "name": "demo",
+>>>>>>> a019ae1fa54c27aea998e40f970477a33a1f55b9
   "private": true,
   "dependencies": {}
 }
